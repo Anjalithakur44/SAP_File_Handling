@@ -13,7 +13,6 @@ It also includes examples of file archiving, multiple file handling, and file de
 - **program5/** → Archive a File (move from one directory to another)  
 - **program6/** → Multiple File Handling  
 - **program7/** → Delete a File from a Directory  
-- **screenshots/** → Common output screenshots  
 
 ---
 
